@@ -34,3 +34,5 @@
 <h3 align="left">My Github contribution summary:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=stewie-pixel&theme=tokyonight" alt="stewie-pixels" /></p>
 
+<h3 align="left">My Github Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-phi-ten-46.vercel.app/api?username=stewie-pixel&show_icons=true&theme=radical&cache_seconds=86400" alt="stewie-pixels" /></p>
