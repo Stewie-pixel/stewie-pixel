@@ -46,5 +46,8 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=stewie-pixel&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
+## ⌨️ 3D Contributions
+<img src="https://github.com/Stewie-pixel/stewie-pixel/blob/github-profile-3D-contributions/profile-3d-contrib/profile-night-rainbow.svg">
+
 <h3 align="left">🍪 Support Me</h3>
 <p>&nbsp;<a href="https://www.buymeacoffee.com/Vendor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vendor" /></a></p><br><br>
