@@ -41,11 +41,6 @@
   </a>
 </div>
 
-## 🔝 Top Contributed Repo
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=stewie-pixel&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
 ## ⌨️ 3D Contributions
 <img src="https://github.com/Stewie-pixel/stewie-pixel/blob/github-profile-3D-contributions/profile-3d-contrib/profile-night-rainbow.svg">
 
