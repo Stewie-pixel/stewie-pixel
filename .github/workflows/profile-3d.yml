@@ -11,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-github-profile-3d-contributions
     steps:
       - uses: actions/checkout@v5
       - uses: yoshi389111/github-profile-3d-contrib@latest
