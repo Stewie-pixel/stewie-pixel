@@ -3,7 +3,8 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=stewie-pixels&label=Profile%20views&color=0e75b6&style=flat" alt="stewie-pixels" /> 
-  <img src="https://img.shields.io/github/followers/stewie-pixel?label=Follow&style=social" (https://github.com/stewie-pixel)
+  <img src="https://img.shields.io/github/followers/stewie-pixel?label=Follow&style=social" (https://github.com/stewie-pixel) />
+  <img src="https://img.shields.io/github/stars/stewie-pixel?style=social"
 </p>
 
 <h2>My Github Profile </h2>
