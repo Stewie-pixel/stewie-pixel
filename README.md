@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 <div align="center"> 
   <a href="https://github.com/stewie-pixel">
-    <img height="259" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs/?username=stewie-pixel&layout=compact&theme=dark&bg_color=000000&hide_border=false" alt="Most Used Languages" />
+    <img height="259" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs/?username=stewie-pixel&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=false" alt="Most Used Languages" />
   </a>
   <a href="https://github.com/stewie-pixel">
     <img height="240" src="https://github-vercel-deployment-seven.vercel.app/api?username=stewie-pixel&theme=dark&bg_color=000000&hide_border=false&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
