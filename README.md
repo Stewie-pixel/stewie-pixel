@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Edwardz</h1>
+<h1 align="center">Hey there 👋 I'm Stewie</h1>
 <h3 align="center">A Passionate Machine Learning Engineer From Australia</h3>
 
 <p align="center"> 
