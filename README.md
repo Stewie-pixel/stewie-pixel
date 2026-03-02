@@ -30,7 +30,7 @@
 
 > Why it all works? Because you take action.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vendor-han-384612311) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27828584) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanchivi39@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vendor-han-384612311) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/hanchivi39/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27828584) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanchivi39@gmail.com) 
 
 
 ## 💻 Tech Stack
