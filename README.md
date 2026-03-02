@@ -54,7 +54,7 @@
 </td>
 
 <td align="center">
-  <img width="400em" 
+  <img width="420em" 
        src="https://nirzak-streak-stats.vercel.app/?user=Stewie-pixel&theme=dracula&background=000000" />
 </td>
 
