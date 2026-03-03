@@ -3,9 +3,9 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=stewie-pixels&label=Profile%20views&color=0e75b6&style=flat" alt="stewie-pixels" /> 
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FStewie-pixel"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FStewie-pixel&countColor=%232ccce4&style=flat" /></a>
   <img src="https://img.shields.io/github/followers/stewie-pixel?label=Follow&style=social" (https://github.com/stewie-pixel) />
-  <img src="https://img.shields.io/github/stars/stewie-pixel?style=social"
+  <img src="https://img.shields.io/github/stars/stewie-pixel?style=social" />
+  <img src="https://img.shields.io/github/forks/Stewie-pixel/github-vercel-deployment?style=social"
 </p>
 
 <h2>🌨️ My Github Profile </h2>
