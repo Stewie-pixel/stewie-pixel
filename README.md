@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Machine Learning Engineer From Australia</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=stewie-pixels&label=Profile%20views&color=0e75b6&style=flat" alt="stewie-pixels" /> 
+  <img src="https://komarev.com/ghpvc/?username=stewie-pixels&label=Profile%20views&color=32CD32&style=flat" alt="stewie-pixels" /> 
   <img src="https://img.shields.io/github/followers/stewie-pixel?label=Follow&style=social" (https://github.com/stewie-pixel) />
   <img src="https://img.shields.io/github/stars/stewie-pixel?style=social" />
   <img src="https://img.shields.io/github/forks/Stewie-pixel/github-vercel-deployment?style=social"
