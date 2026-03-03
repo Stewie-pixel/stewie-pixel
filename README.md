@@ -1,4 +1,4 @@
-<h1 align="center">Hey there I'm Stewie <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> </h1>
+<h1 align="center"> Hey there I'm <a href="https://www.linkedin.com/in/vendor-han-384612311/">Stewie</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> </h1>
 <h3 align="center">A Passionate Machine Learning Engineer From Australia</h3>
 
 <p align="center"> 
