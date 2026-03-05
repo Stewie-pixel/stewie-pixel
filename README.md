@@ -59,7 +59,7 @@
 
 <td align="center">
   <img width="420em" 
-       src="https://nirzak-streak-stats.vercel.app/?user=Stewie-pixel&theme=dracula&background=000000" />
+       src="https://streak-stats.demolab.com/?user=Stewie-pixel&theme=dracula&background=000000&mode=weekly" />
 </td>
 
 </tr>
