@@ -66,7 +66,7 @@
 <td width="50%" align="center" valign="top">
 
 <details>
-<summary align="center"><b>☁️ Cloud</b></summary>
+<summary align="center"><b>☁️ Clouds</b></summary>
 
 <p align="center">
 
@@ -110,7 +110,7 @@
 <td width="50%" align="center" valign="top">
 
 <details>
-<summary align="center"><b>🧠 ML & DL</b></summary>
+<summary align="center"><b>🧠 ML/DL</b></summary>
 
 <p align="center">
 
@@ -155,7 +155,7 @@
 <td width="50%" align="center" valign="top">
 
 <details>
-<summary align="center"><b>🧰 Dev Tools</b></summary>
+<summary align="center"><b>🧰 Toolkit</b></summary>
 
 <p align="center">
 
