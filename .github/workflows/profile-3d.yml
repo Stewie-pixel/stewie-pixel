@@ -25,6 +25,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push origin github-profile-3D-contributions
-          fi
+          git diff-index --quiet HEAD || git commit -m "chore: regenerate 3D contributions"
+
+      - name: Push changes
+        run: |
+          git push origin chore/update-tech-badges-by-groups
