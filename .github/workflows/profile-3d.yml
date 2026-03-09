@@ -14,11 +14,11 @@ jobs:
           ref: chore/update-tech-badges-by-groups
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Regenerate SVGs
-        run: |
-          # your command to regenerate SVGs
-          node generate-3d.js
-
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
