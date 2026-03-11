@@ -1,0 +1,22 @@
+name: Auto Release Stats
+
+on:
+  push:
+    branches:
+      - feat/auto-update-stats
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: stats-update-${{ github.run_number }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
