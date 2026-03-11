@@ -191,7 +191,7 @@
 
 <td align="center">
   <img width="400em" 
-       src="https://github-vercel-deployment-seven.vercel.app/api?username=Stewie-pixel&theme=dracula&bg_color=000000&hide_border=false&show_icons=true&include_all_commits=true&contribs=2026&count_private=false" 
+       src="https://github-vercel-deployment-seven.vercel.app/api?username=Stewie-pixel&theme=dracula&bg_color=000000&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
        alt="GitHub Stats"/>
 </td>
 
