@@ -12,13 +12,13 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 🔭 I’m currently working on [The Daily Leetcode](https://github.com/Stewie-pixel/Leetcode_Daily.git)
+- 🔭 I’m currently working on [Gemini cli](https://github.com/google-gemini/gemini-cli.git)
 
 - 🌱 I’m currently learning **ML/DL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stewie-pixel](https://github.com/Stewie-pixel)
+- 👨‍💻 All of my projects are available at [Stewie](https://github.com/Stewie-pixel)
 
-- 📝 I regularly write articles on [https://github.com/Stewie-pixel](https://github.com/Stewie-pixel)
+- 📝 I regularly write articles on [Open Source Community](https://www.linkedin.com/pulse/technical-guideline-open-source-community-chi-vi-han-qrlsc)
 
 - 💬 Ask me about **AI/DSA and ML**
 
