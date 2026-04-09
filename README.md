@@ -1,5 +1,7 @@
 <h1 align="center"> Hey there I'm <a href="https://www.linkedin.com/in/vendor-han-384612311/">Stewie</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> </h1>
-<h3 align="center">A Passionate Machine Learning Engineer From Australia</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D051FFFF&center=true&vCenter=true&width=800&lines=A+passionate+machine+learning+engineer+from+Australia;I+build+AI+Agent+and+System+Architecture;Mirabile+cli+and+Gemini+cli+collaborator" />
+</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=stewie-pixels&label=Profile%20views&color=32CD32&style=flat" alt="stewie-pixels" /> 
