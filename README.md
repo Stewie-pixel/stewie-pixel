@@ -1,4 +1,5 @@
 <h1 align="center"> Hey there I'm <a href="https://www.linkedin.com/in/vendor-han-384612311/">Stewie</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7659BFF&center=true&vCenter=true&width=800&lines=A+passionate+AI+engineer+from+Australia;I+build+AI+Agent+and+System+Architecture;Mirabile+cli+and+Gemini+cli+collaborator" />
 </p>
@@ -10,26 +11,25 @@
   <img src="https://img.shields.io/github/forks/Stewie-pixel/github-vercel-deployment?style=social"
 </p>
 
-<h2>🌨️ My Github Profile </h2>
+<h2> <img width="25" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzNtcnJtaTFjMW5qeWhzc3c1d3Q0bDAyOGo3a3dhbmtmcGd2Ym5kOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eP3jvb1trh4CNuNjEX/giphy.gif"> My Github Profile </h2>
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 🔭 I’m currently working on [Gemini cli](https://github.com/google-gemini/gemini-cli.git)
+- 🔭 **I’m currently working on [Gemini cli](https://github.com/google-gemini/gemini-cli.git)**
 
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 **I’m currently learning ML/DL**
 
-- 👨‍💻 All of my projects are available at [Stewie-pixel](https://github.com/Stewie-pixel)
+- 👨‍💻 **All of my projects are available at [Stewie-pixel](https://github.com/Stewie-pixel)**
 
-- 📝 I regularly write articles on [Open Source Community](https://www.linkedin.com/pulse/technical-guideline-open-source-community-chi-vi-han-qrlsc)
+- 📝 **I regularly write articles on [Open Source Community](https://www.linkedin.com/pulse/technical-guideline-open-source-community-chi-vi-han-qrlsc)**
 
-- 💬 Ask me about **AI/DSA and ML**
+- 💬 **Ask me about AI/DSA and ML**
 
-- 📫 How to reach me **hanchivi39@gmail.com**
+- 📫 **How to reach me hanchivi39@gmail.com**
 
-- ⚡ Fun fact **I usually code on rainy day**
+- ⚡ **Fun fact I usually code on rainy day**
 
-
-## 🌐 Socials
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bG1iamFyNGs5MWw4anA4ZTM1NnhidnQ0MTA3b2k4NmgzbndqNmtrYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pK71N5q77RlcD4CJPB/giphy.gif" width ="25"><b> Socials</b>
 
 > Why it all works? Because you take action.
 
