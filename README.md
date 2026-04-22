@@ -19,7 +19,7 @@
 
 - 🌱 **I’m currently learning ML/DL**
 
-- 👨‍💻 **All of my projects are available at [Stewie-pixel](https://github.com/Stewie-pixel)**
+- 👨‍💻 **All of my projects are available at [Stewie-pixel](https://github.com/Stewie-pixel?tab=repositories)**
 
 - 📝 **I regularly write articles on [Open Source Community](https://www.linkedin.com/pulse/technical-guideline-open-source-community-chi-vi-han-qrlsc)**
 
