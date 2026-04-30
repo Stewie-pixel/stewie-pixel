@@ -204,7 +204,7 @@
 
 <td align="center">
   <img width="420em" 
-       src="https://streak-stats.demolab.com?user=Stewie-pixel&theme=dracula&mode=weekly" alt="GitHub Streak" />
+       src="https://streak-stats.demolab.com?user=Stewie-pixel&theme=dracula&mode=weekly&background=000000" alt="GitHub Streak" />
 </td>
 
 </tr>
