@@ -210,7 +210,7 @@
 </tr>
 </table>
 
-## ⌨️ 3D Contributions
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG84NnhldmJkZGxreHF6ZHR5cmF1ZW5sdHVkN3J1cmVleGp1bmphMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QDgluYEWrWSpu6f8H7/giphy.gif" width ="35"><b> 3D Contributions</b>
 <img src="https://github.com/Stewie-pixel/stewie-pixel/blob/github-profile-3D-contributions/profile-3d-contrib/profile-night-rainbow.svg">
 
 <br>
