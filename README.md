@@ -220,7 +220,7 @@
 </p>
 
 <p align="center">
-  <a href="buymeacoffee.com/Stewiepixel" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+  <a href="https://buymeacoffee.com/stewiepixel" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
     <img height="40" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/>
   </a>
   <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
