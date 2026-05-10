@@ -17,13 +17,13 @@
 
 - 🔭 **I’m currently working on [Gemini cli](https://github.com/google-gemini/gemini-cli.git)**
 
-- 🌱 **I’m currently learning ML/DL**
+- 🌱 **I’m currently developing ML/DL models**
 
 - 👨‍💻 **All of my projects are available at [Stewie-pixel](https://github.com/Stewie-pixel?tab=repositories)**
 
 - 📝 **I regularly write articles on [Open Source Community](https://www.linkedin.com/pulse/technical-guideline-open-source-community-chi-vi-han-qrlsc)**
 
-- 💬 **Ask me about AI/DSA and ML**
+- 💬 **Ask me about AI/ML and DSA**
 
 - 📫 **How to reach me hanchivi39@gmail.com**
 
