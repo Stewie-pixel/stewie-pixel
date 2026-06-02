@@ -187,7 +187,7 @@
 <tr>
 <td align="center">
   <img width="600em" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stewie-pixel&theme=dracula" 
+       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stewie-pixel&theme=dracula" 
        alt="Profile Summary">
 </td>
 </tr>
