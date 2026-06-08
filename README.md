@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=stewie-pixels&label=Profile%20views&color=ff69b4&style=flat" alt="stewie-pixels" /> 
   <img src="https://img.shields.io/github/followers/stewie-pixel?style=social" />
   <img src="https://img.shields.io/github/stars/stewie-pixel?style=social" />
-  <img src="https://img.shields.io/github/forks/stewie-pixel/github-vercel-deployment?style=social"
+  <img src="https://img.shields.io/github/forks/stewie-pixel/claude-with-leetcode?style=social"
 </p>
 
 <h2> <img width="25" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzNtcnJtaTFjMW5qeWhzc3c1d3Q0bDAyOGo3a3dhbmtmcGd2Ym5kOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eP3jvb1trh4CNuNjEX/giphy.gif"> My Github Profile </h2>
